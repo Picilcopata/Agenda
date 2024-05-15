@@ -1,0 +1,8 @@
+
+1.                      **Aplicativo de Gerenciamento de Contatos**
+    
+    - Desenvolva uma aplicação onde os usuários podem gerenciar seus contatos (nome, telefone, e-mail).
+    
+    - Utilize Spring Boot para a API e JPA/Hibernate para persistência de dados.
+    
+    - Implemente endpoints para adicionar, visualizar, atualizar e remover contatos.
